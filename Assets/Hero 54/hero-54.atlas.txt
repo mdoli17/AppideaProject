@@ -1,0 +1,313 @@
+
+hero-54.png
+size: 2044,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dread 1_Lines
+  rotate: true
+  xy: 1721, 1778
+  size: 141, 256
+  orig: 141, 256
+  offset: 0, 0
+  index: -1
+Dread 2_Lines
+  rotate: false
+  xy: 264, 1481
+  size: 217, 198
+  orig: 217, 198
+  offset: 0, 0
+  index: -1
+Dread 3_Lines
+  rotate: true
+  xy: 722, 1639
+  size: 167, 205
+  orig: 167, 205
+  offset: 0, 0
+  index: -1
+Dread 4_Lines
+  rotate: false
+  xy: 212, 1826
+  size: 218, 93
+  orig: 218, 93
+  offset: 0, 0
+  index: -1
+Dread 5_Lines
+  rotate: true
+  xy: 1104, 1791
+  size: 128, 167
+  orig: 128, 167
+  offset: 0, 0
+  index: -1
+Dread 6_Lines
+  rotate: false
+  xy: 432, 1826
+  size: 179, 93
+  orig: 179, 93
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: true
+  xy: 483, 1443
+  size: 161, 1095
+  orig: 161, 1095
+  offset: 0, 0
+  index: -1
+arrow 1
+  rotate: true
+  xy: 500, 512
+  size: 382, 489
+  orig: 382, 489
+  offset: 0, 0
+  index: -1
+arrow 2
+  rotate: true
+  xy: 991, 423
+  size: 382, 489
+  orig: 382, 489
+  offset: 0, 0
+  index: -1
+arrow 3
+  rotate: true
+  xy: 1482, 423
+  size: 382, 489
+  orig: 382, 489
+  offset: 0, 0
+  index: -1
+arrow 4
+  rotate: true
+  xy: 2, 597
+  size: 372, 496
+  orig: 372, 496
+  offset: 0, 0
+  index: -1
+arrow 5
+  rotate: false
+  xy: 473, 94
+  size: 458, 416
+  orig: 458, 416
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 779, 896
+  size: 312, 539
+  orig: 312, 539
+  offset: 0, 0
+  index: -1
+bow string
+  rotate: false
+  xy: 933, 2
+  size: 929, 419
+  orig: 929, 419
+  offset: 0, 0
+  index: -1
+case back
+  rotate: false
+  xy: 613, 1819
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+closed eyes
+  rotate: false
+  xy: 2, 1828
+  size: 208, 91
+  orig: 208, 91
+  offset: 0, 0
+  index: -1
+jacket left
+  rotate: true
+  xy: 1320, 807
+  size: 343, 365
+  orig: 343, 365
+  offset: 0, 0
+  index: -1
+jacket right
+  rotate: false
+  xy: 2, 188
+  size: 469, 407
+  orig: 469, 407
+  offset: 0, 0
+  index: -1
+lef thigh
+  rotate: true
+  xy: 726, 1222
+  size: 219, 508
+  orig: 219, 508
+  offset: 0, 0
+  index: -1
+left arm
+  rotate: true
+  xy: 1656, 1586
+  size: 190, 311
+  orig: 190, 311
+  offset: 0, 0
+  index: -1
+left brace bottom
+  rotate: true
+  xy: 1236, 1210
+  size: 231, 306
+  orig: 231, 306
+  offset: 0, 0
+  index: -1
+left brace top
+  rotate: true
+  xy: 1544, 1152
+  size: 236, 285
+  orig: 236, 285
+  offset: 0, 0
+  index: -1
+left foot
+  rotate: false
+  xy: 2, 1494
+  size: 260, 194
+  orig: 260, 194
+  offset: 0, 0
+  index: -1
+left forearm
+  rotate: false
+  xy: 1842, 1321
+  size: 200, 263
+  orig: 200, 263
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: false
+  xy: 352, 1681
+  size: 152, 143
+  orig: 152, 143
+  offset: 0, 0
+  index: -1
+left hand fingers
+  rotate: false
+  xy: 718, 1812
+  size: 121, 107
+  orig: 121, 107
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: true
+  xy: 2, 1690
+  size: 134, 348
+  orig: 134, 348
+  offset: 0, 0
+  index: -1
+open righthand
+  rotate: true
+  xy: 929, 1620
+  size: 169, 221
+  orig: 169, 221
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: true
+  xy: 2, 1039
+  size: 232, 316
+  orig: 232, 316
+  offset: 0, 0
+  index: -1
+right brace bottom
+  rotate: true
+  xy: 1390, 1606
+  size: 178, 264
+  orig: 178, 264
+  offset: 0, 0
+  index: -1
+right brace top
+  rotate: true
+  xy: 390, 1227
+  size: 214, 334
+  orig: 214, 334
+  offset: 0, 0
+  index: -1
+right foot
+  rotate: false
+  xy: 1152, 1613
+  size: 236, 176
+  orig: 236, 176
+  offset: 0, 0
+  index: -1
+right foot copy
+  rotate: false
+  xy: 1580, 1390
+  size: 260, 194
+  orig: 260, 194
+  offset: 0, 0
+  index: -1
+right forearm
+  rotate: true
+  xy: 1464, 1786
+  size: 133, 255
+  orig: 133, 255
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: true
+  xy: 506, 1662
+  size: 148, 214
+  orig: 148, 214
+  offset: 0, 0
+  index: -1
+right hand 4 arrow
+  rotate: true
+  xy: 1273, 1791
+  size: 128, 189
+  orig: 128, 189
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: true
+  xy: 2, 1273
+  size: 206, 386
+  orig: 206, 386
+  offset: 0, 0
+  index: -1
+right thigh
+  rotate: true
+  xy: 320, 971
+  size: 249, 457
+  orig: 249, 457
+  offset: 0, 0
+  index: -1
+sash
+  rotate: false
+  xy: 841, 1808
+  size: 261, 111
+  orig: 261, 111
+  offset: 0, 0
+  index: -1
+
+hero-542.png
+size: 1804,1296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bow
+  rotate: false
+  xy: 2, 509
+  size: 1365, 782
+  orig: 1365, 782
+  offset: 0, 0
+  index: -1
+case
+  rotate: false
+  xy: 1369, 722
+  size: 431, 569
+  orig: 431, 569
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 662, 22
+  size: 485, 598
+  orig: 485, 598
+  offset: 0, 0
+  index: -1
+hood front
+  rotate: true
+  xy: 2, 2
+  size: 505, 658
+  orig: 505, 658
+  offset: 0, 0
+  index: -1
